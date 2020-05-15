@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "513192743417",
+    "firebase_url": "https://clockinapp-9bf8f.firebaseio.com",
+    "project_id": "clockinapp-9bf8f",
+    "storage_bucket": "clockinapp-9bf8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513192743417:android:41451ae83d4f3623b7ed28",
+        "android_client_info": {
+          "package_name": "com.clockin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513192743417-ddial3ctms3oob2497ft5bncpgbe71rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCymdiyNJFCt2rFL01m9zvaANJHlFrPNio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513192743417-ddial3ctms3oob2497ft5bncpgbe71rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
